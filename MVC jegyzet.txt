@@ -1,0 +1,6 @@
+MVC
+Modell-A Modell csak az adatokkal foglalkozik, előállítja a program következő állapotát(setAktelem, lepteto).
+View- kinézet(megjelenítő classok). A View megjeleníti az aktuális állapotot.
+Controller- Controller feladata példányosítani a modellt és a viewot, és feliratkozik az eseménykezelőkre. 
+Mainben példányosítjuk a controllert.
+mmf
