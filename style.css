@@ -1,0 +1,22 @@
+body{
+    box-sizing: border-box;
+    margin: auto;
+    width: 50%;
+    max-width: 500px;
+}
+header, footer{
+    text-align: center;
+
+}
+.palya{
+    padding: 10px;
+    border: 1px black solid;
+    height: 50px;
+    font-size: 40px;
+    text-align: center;
+    margin: 0px;
+}
+#jatek{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
